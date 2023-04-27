@@ -1,7 +1,7 @@
 # Confab-master
 
+Backend application for managing conferences, speakers, tickets etc. made with devmentors "Modular Monolith" course.
 
-Backend application for managing conferences, speakers, tickets etc. made in devmentors "Modular Monolith".
 ## Arhitecture
 Projects is consisted of modules which some of them are based on Clean Architecture and CQRS ( Attendances, Agendas module ) and rest of them are based Modular Monolith.
 
