@@ -1,5 +1,4 @@
-# Confab-master
-
+# Confab ( "Modular monolith" )
 Backend application for managing conferences, speakers, tickets etc. made with devmentors "Modular Monolith" course.
 
 ## Arhitecture
